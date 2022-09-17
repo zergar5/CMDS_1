@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CMDS": {
+      "commandName": "Project",
+      "workingDirectory": "F:\\Visual Studio\\Projects\\CMDS"
+    }
+  }
+}

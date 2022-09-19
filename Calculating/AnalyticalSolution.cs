@@ -17,6 +17,6 @@
             return result;
         }
 
-        private double Equation(double t) => Math.Exp(2 * t * t);
+        private double Equation(double t) => Math.Exp(t * t);
     }
 }

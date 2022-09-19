@@ -47,6 +47,6 @@
             return result;
         }
 
-        static private double Func(double t, double y) => 4 * t * y;
+        static private double Func(double t, double y) => 2 * t * y;
     }
 }
